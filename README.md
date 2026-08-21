@@ -133,7 +133,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 -  **Nível:** Desenvolvedor Full-Stack
 
 <div align="center">
-
----
-*“Um Pokémon que cria seu filhote em sua bolsa ventral. Ele nunca foge de uma batalha para proteger quem ama.”*
 </div>
