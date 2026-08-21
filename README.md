@@ -6,16 +6,23 @@ Tenho 18 anos e estou no segundo ano do técnico em Desenvolvimento de Sistemas,
 Meu foco está no desenvolvimento backend com Ruby, Python, C, área pela qual tenho grande interesse e onde venho aprimorando minhas habilidades. Também trabalho com JavaScript, PostgreSQL, Linux (Ubuntu), consumo e criação de APIs, além de automações com bots para Discord.
 Tenho interesse em análise de dados e me dedico a manter um fluxo de trabalho organizado e colaborativo com o uso de Git e GitHub.
 
-<p align="left">
-    <a href="www.linkedin.com/in/hiago-mateus-telis-bagatoli-27b75b350">
-        <img
-            alt="Conexões"
-            title="Conecte"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"
-            height = 100
-        />
-        </a>
-
+<a href="https://x.com/Luke_t3ch" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"
+    alt="Seguidores no twitter"
+    title="Twitter"
+    width="50px"
+  />
+</a>
+<a href="https://www.linkedin.com/in/hiago-mateus-telis-bagatoli-27b75b350/" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" 
+    alt="Perfil no LinkedIn"
+    title="LinkedIn"
+    width="70px"
+  />
+</a>
+    
 ---
 
 ### Linguagens e Tecnologias
