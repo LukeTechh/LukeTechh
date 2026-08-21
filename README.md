@@ -1,10 +1,111 @@
-<h1 align="center">Olá, prazer meu nome é Hiago Mateus</h1>
-<h3 align="center">Backend, analista de dados.</h3>
+# ☕ Hiago Mateus
 
-<h3 align="left">Connect with me:</h3>
+**`Desenvolvedor Backend junior`**
+
+Tenho 18 anos e estou no segundo ano do técnico em Desenvolvimento de Sistemas, construindo uma base sólida tanto na teoria quanto na prática do desenvolvimento de software.
+Meu foco está no desenvolvimento backend com Ruby, Python, C, área pela qual tenho grande interesse e onde venho aprimorando minhas habilidades. Também trabalho com JavaScript, PostgreSQL, Linux (Ubuntu), consumo e criação de APIs, além de automações com bots para Discord.
+Tenho interesse em análise de dados e me dedico a manter um fluxo de trabalho organizado e colaborativo com o uso de Git e GitHub.
+
 <p align="left">
-<a href="www.linkedin.com/in/hiago-mateus-telis-bagatoli-27b75b350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hiago-mateus-telis-bagatoli-27b75b350" height="30" width="40" /></a>
-</p>
+    <a href="linkedin.com/in/hiago-mateus-telis-bagatoli-27b75b350">
+        <img
+            alt="Conexões"
+            title="Conecte"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"
+            height = 70
+        />
+        </a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
+
+### Linguagens e Tecnologias
+<img 
+alt="HTML"
+title="HTML"
+width="40px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain-wordmark.svg" 
+/>
+<img 
+alt="HTML"
+title="HTML"
+width="40px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+alt="HTML"
+title="HTML"
+width="40px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+alt="HTML"
+title="HTML"
+width="40px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
+/>
+<img 
+alt="HTML"
+title="HTML"
+width="40px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+<img 
+alt="HTML"
+title="HTML"
+width="40px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+/>
+<img 
+alt="HTML"
+title="HTML"
+width="40px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+/>
+<img 
+alt="HTML"
+title="HTML"
+width="40px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img 
+alt="HTML"
+title="HTML"
+width="40px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+<img 
+alt="HTML"
+title="HTML"
+width="40px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" 
+/>
+<img 
+alt="HTML"
+title="HTML"
+width="40px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrok/ngrok-original.svg" 
+/>
+<img 
+alt="HTML"
+title="HTML"
+width="40px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<br/>
+<br/>
+
+### 💹 `Estatisticas`
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeTechh&show_icons=true)
