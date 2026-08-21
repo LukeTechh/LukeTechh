@@ -116,3 +116,24 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 ### 💹 `Estatisticas`
 
 ![Estatísticas do GitHub](https://github-stats-extended.vercel.app/api?username=LukeTechh&show_icons=true&theme=dark)
+
+<div align="center">
+
+# 🥊 POKÉDEX #115: LukeTechh
+
+<!-- Bloco do Kangaskhan usando caminho nativo -->
+<img src="./kangaskhan.gif" width="130" alt="Kangaskhan Animado" />
+
+<h3> 📊 STATUS DO TREINADOR </h3>
+
+</div>
+
+-  **Treinador:** [LukeTechh](https://github.com)
+-  **Tipo Principal:** Normal / Tech
+-  **Nível:** Desenvolvedor Full-Stack
+
+<div align="center">
+
+---
+*“Um Pokémon que cria seu filhote em sua bolsa ventral. Ele nunca foge de uma batalha para proteger quem ama.”*
+</div>
