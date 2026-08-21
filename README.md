@@ -25,7 +25,7 @@ Tenho interesse em análise de dados e me dedico a manter um fluxo de trabalho o
     
 ---
 
-### Linguagens e Tecnologias
+### `Linguagens e Tecnologias`
 <img 
 alt="HTML"
 title="HTML"
@@ -114,3 +114,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 <br/>
 
 ### 💹 `Estatisticas`
+
+![Estatísticas do GitHub](https://github-stats-extended.vercel.app/api?username=LukeTechh&show_icons=true&theme=dark)
