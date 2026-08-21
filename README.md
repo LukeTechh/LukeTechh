@@ -7,12 +7,12 @@ Meu foco está no desenvolvimento backend com Ruby, Python, C, área pela qual t
 Tenho interesse em análise de dados e me dedico a manter um fluxo de trabalho organizado e colaborativo com o uso de Git e GitHub.
 
 <p align="left">
-    <a href="linkedin.com/in/hiago-mateus-telis-bagatoli-27b75b350">
+    <a href="www.linkedin.com/in/hiago-mateus-telis-bagatoli-27b75b350">
         <img
             alt="Conexões"
             title="Conecte"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"
-            height = 70
+            height = 100
         />
         </a>
 
@@ -107,5 +107,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 <br/>
 
 ### 💹 `Estatisticas`
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeTechh&show_icons=true)
